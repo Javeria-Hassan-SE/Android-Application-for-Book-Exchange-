@@ -2,7 +2,7 @@
 <br>
 BookHub is a comprehensive platform that enables users to sell their old books at reasonable prices while allowing other users to purchase them. The application provides a seamless experience for posting and buying books, facilitating communication between sellers and buyers through an in-app chat feature. Additionally, BookHub incorporates a recommendation system, powered by Machine Learning using TensorFlow, to suggest relevant sellers to potential buyers based on their preferences.
 <br>
-### User Interface
+###  User Interface
 <img src="screenshots/app21.PNG"/><br>
 <img src="screenshots/app29.PNG"/><br>
 <img src="screenshots/app24.PNG"/><br>
